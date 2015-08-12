@@ -1,6 +1,6 @@
 # node-machinelearning-id3
 
-Simple implementation of the ID3 decision tree machine learning algorithm in JavaScript.
+Example implementation of the ID3 decision tree machine learning algorithm in JavaScript.
 
 Usage:
 ```
