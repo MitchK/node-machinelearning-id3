@@ -1,0 +1,16 @@
+{
+  "name": "node-machinelearning-id3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Kunzmann",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "mocha": "^2.2.5",
+    "underscore": "^1.8.3"
+  }
+}
